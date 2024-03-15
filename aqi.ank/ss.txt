@@ -1,0 +1,6 @@
+camelot_py
+ghostscript
+opencv_python
+pandas
+PyPDF2
+requests
