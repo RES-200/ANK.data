@@ -1,10 +1,10 @@
-# ANK.data - Empowering Smart Cities! 🏙️🌐
+# ANK.data - Empowering Smart Cities! 🏙️🌐 - DevsHouse' 24 Top 10!
 
 Welcome to ANK.data Repo, where we believe in harnessing the power of technology to empower smart cities! Our project is a culmination of innovative ideas and cutting-edge IoT solutions aimed at revolutionizing urban living.
 
 ## Project Overview ℹ️
 
-- At ANK.data, we focus on two IoT-based prototypes that aim to address crucial challenges faced by modern cities:
+- At ANK.data, we focus on two IoT-based prototypes that aim to address crucial challenges faced by modern cities and has been ranked "4" in  DevsHouse' 24 hackathon held at VIT Chennai :
 
 ## Smart Waste Management Prototype 🗑️
 
